@@ -1,2 +1,2 @@
-# HarkerHacks-CTF
-A CTF puzzle for the Harker Hackathon
+# EdgeHacks CTF
+A CTF puzzle for EdgeHacks
